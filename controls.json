@@ -1,0 +1,9 @@
+{
+    "left": "K_LEFT",
+    "right": "K_RIGHT",
+    "rotate": "K_UP",
+    "drop": "K_DOWN",
+    "hard-drop": "K_Space",
+    "pause": "K_p",
+    "Restart": "K_r"
+}

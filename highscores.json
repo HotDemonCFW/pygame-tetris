@@ -1,0 +1,14 @@
+[
+    {
+        "name": "AAA",
+        "score": 1000
+    },
+    {
+        "name": "BBB",
+        "score": 500
+    },
+    {
+        "name": "CCC",
+        "score": 100
+    }
+]
